@@ -1,5 +1,5 @@
 # web-redirect
-Container to redirect HTTP traffic to another server, based on nginx.
+Docker container to redirect to another website.
 
 Environment variables
 REDIRECT_TARGET = www.example.com
